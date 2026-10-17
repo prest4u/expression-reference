@@ -4,7 +4,7 @@
 
 先识别确认、请求、状态、分歧或交接。共同背景足够时，直接报告材料中的状态；只确认收件可短答，状态回复仍须保留影响对方判断的未完成事项。
 
-收件、审阅、批准和交付分别按输入表达。更新时间保留为更新时间；交期未约定就写未约定，不能加成无法确定交期。没有给原因、负责人的心理或后续安排时，不自行补写。
+收件、审阅、批准和交付分别按输入表达。更新时间保留为更新时间；交期未约定时不补成交付承诺。对方正在询问交期，或省略会造成误解时，再明确说明尚未约定；不能扩大成无法确定交期。没有给原因、负责人的心理或后续安排时，不自行补写。
 
 **中文参照：** [阮一峰的公开解释回复](https://github.com/ruanyf/es6tutorial/issues/647#issuecomment-383814006)用当前技术原因回应问题，没有报告已改。**English reference:** [Guido van Rossum, “Transfer of power”](https://mail.python.org/pipermail/python-committers/2018-July/005664.html) distinguishes a definite change of responsibility from possible participation and unsettled arrangements. Keep each statement at its supplied level of certainty.
 
@@ -82,3 +82,21 @@ Independent English fixture: a draft has been received; approval has not been gi
 > Thanks, I’ve received the draft. I haven’t reviewed it yet.
 
 这句只报告材料中的状态。没有给后续时间就不编承诺；不要把礼貌词一律删除，也不要为“像人说话”添加口头禅或假熟悉。这份 Reference 只帮助起草，发送需要相应授权。
+
+## 现代书籍方法：句子焦点与关系距离
+
+[Kane](sources/kane.md)的读者与句子焦点方法，以及 [Handley](sources/books.md#bk-handley)的公开书摘，可用于选择对方当前需要的信息。本节为原创场景应用，不规定每条消息都写完整邮件。
+
+**请求：** 把请求对象和所需回应说清。期限、负责人和原因来自实际材料；未给期限时，不为了显得行动明确自行加“今天下班前”。开放讨论可以直接提出一个开放问题。
+
+**反馈：** 描述当前文本或行为及其具体影响，再给有材料支持的修改建议。不要从一句写得不清楚推断作者态度。赞许也应对应实际观察，避免礼貌性编造效果。
+
+**坏消息或分歧：** 先让对方理解决定或状态，说明真正相关的原因。可以表达遗憾，但不能用歉意改变责任；补偿和下一次承诺需要授权。双方确有共同目标时可说明，不代认对方心理。
+
+原创 brief：客户发来修改后的文件；团队已收到，尚未开始审阅；周三会更新进度，未承诺周三完成。
+中文：“修改后的文件已收到，我们还未开始审阅。周三会向你更新进度。”
+英文：“We’ve received the revised files and haven’t started the review yet. We’ll send a progress update on Wednesday.”
+
+若线程已经明确文件身份，可以更短；“周三更新”仍不能改为“周三完成”。假设 brief 中没有更新时间，就不补第三句话。需要时区来防止实际误解时再确认，不给所有短消息增加时间表。
+
+礼貌和直接可以同时存在。称呼、感谢和收束由双方关系决定；必要信息清楚后即可结束，无需每封都附一段合作愿景。

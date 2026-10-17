@@ -79,3 +79,21 @@ Independent English fixture: a product has an inner pocket, with no supplied cla
 > An inner pocket keeps small items separate from the main compartment.
 
 这个例子解释具体设计，不证明读者喜欢它。中英文都从自己的材料选焦点；源文的 signature dot、环保计划或亲历描述不跨品牌移用。若正文已有鲜明具体的表达，保留声音，不把反 Slop 变成统一朴素句式。
+
+## 现代书籍方法：品牌声音落到具体选择
+
+[Handley 的 2014 书摘](sources/books.md#bk-handley)可帮助从读者需要选择内容；[Kane](sources/kane.md)可帮助把目的落实到措辞和顺序。下面是原创方法与假设练习，不是书中案例。
+
+先区分品牌要传达的立场与当前可确认的产品内容。立场可通过取舍、服务方式、设计意图或具体行动表现；性能与体验主张仍需资料。只有颜色、材质和尺寸时，可以写产品描述，无需发明创始故事。
+
+原创 brief：一款笔记本，封面为深蓝布面，内页无横线，A5 尺寸。品牌希望语气安静、简洁，不新增耐用性或环保主张。
+
+产品焦点：“A5 尺寸，深蓝布面封面，内页留白。”
+使用邀请：“把这一页留给图，也留给文字。”
+第二种写法以用途想象邀请读者，没有声称实际用户体验。若页面没有其他规格区，仍应补充必要产品信息；一句情绪文案不能承担全部说明。
+
+English product copy: “A5, with a dark blue cloth cover and unruled pages.”
+English invitation: “Room for words, sketches, and unfinished thoughts.”
+它们服务不同位置，不要求逐词对应。用户要求忠实双语规格时，应选产品信息版本并核对应关系。
+
+“更有高级感”可以通过减少空泛评价、挑选有辨识度的细节和调整声音距离实现。文学化表达也可以成立，前提是符合品牌与读者；不要一律削成规格表。标题与正文共同承担信息，读者需要的购买条件应清楚可见。

@@ -103,3 +103,21 @@ Independent English fixture: a later request succeeds, and the cause of the earl
 > The later request succeeded. That result does not establish the cause of the earlier failure.
 
 若已有日志查清原因，就给明确解释。去 Slop 不要求一律弱化语气；它要求这次主张与给定材料相符，并让读者理解当前需要的关系。
+
+## 现代书籍方法：补出缺失的一步
+
+[Pinker](sources/books.md#bk-pinker)的书籍改编文章讨论作者常高估读者的已有知识；[Kane](sources/kane.md)的段落方法提醒检查思路是否省略了关键内容。本节将它们用于教程的原创方法，不代表两本书提供具体系统操作。
+
+把读者当前位置和目标状态写清楚。步骤间出现权限、文件格式、保存位置或等待条件时，在读者需要它的地方说明。若前提对当前用户已明确，可简写；如果不满足前提会让后续失败，就不能留到最后才说。
+
+原创输入：导出需要管理员账号；普通账号看不到 Export；操作路径由当前材料给出。
+解释可写：“普通账号不会显示 Export。请先确认当前账号是否有管理员权限。”
+不能写“点击设置开启管理员权限”，材料没有说明用户能自行提升权限。恢复方法必须来自产品实际支持的动作。
+
+排障时区分观察与原因。日志只显示超时，可以写请求超时；除非另有材料，不能确定服务器宕机或用户网络异常。假设排查原因时，用明确条件引导下一步，不把猜测写成故障结论。
+
+English fixture: a file was uploaded, but processing has not finished.
+“The upload is complete. Processing is still in progress.”
+把它合成 “Your file is ready” 会改变状态。若用户要判断何时可用，需查实际完成信号，不承诺未知等待时间。
+
+代码和命令保持语法准确。解释性改写不能更改参数、标志或输出字段；用户只要求润色时，不执行示例命令。文字清楚与操作已成功是不同检查，分别报告实际完成的部分。

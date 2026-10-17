@@ -86,3 +86,17 @@ Independent English fixture: the proposal seeks agreement for an internal sample
 > We propose an internal sample to help decide whether to proceed. The build budget has not been agreed.
 
 删掉“推动全面转型”后，方案仍要给出可判断的动作。用户要求愿景探索时可以保留想象和方向，明确哪些是提议，不必强制写成批准文件。
+
+## 现代书籍方法：方案正文与口头提案
+
+[Kane](sources/kane.md)帮助判断目的和材料关系；[Handley](sources/books.md#bk-handley)帮助选择客户读得懂的内容；需要当面陈述时，再用[Duarte 对听众关系的提醒](sources/books.md#bk-duarte)。以下为原创应用。
+
+建议书中的问题说明应与当前客户资料对应。行业趋势可以提供背景，但不能代替客户现状。没有现状数据时，可以提出待调研的问题和拟议安排，不能先写出确定 ROI。
+
+内容由决定的层级调整：评估阶段关注要了解什么及投入；采购阶段需要报价、服务内容与条件；实施阶段需要分工和依赖。不要让一份探索稿自动承担合同承诺，也不要把实施清单塞满管理层摘要。
+
+原创材料：客户正在比较两种培训方式；线上方案便于异地参加，线下方案便于现场练习；费用未提供。
+可写：“如果参与者分散在不同城市，可以先比较线上方案的组织安排；若现场练习是本次培训的主要需求，则需进一步了解线下方案。两种方式的费用还未提供。”
+这里帮助读者继续比较，不能写“线上方案更节约预算”。
+
+同一材料用于口头陈述，可先说当前需要比较的两项需求，再展示详细安排。完整方案保留可回看的条件与分工；演示稿可缩短重复信息，但不能悄悄扩大已确认内容。更详细的口头处理见[演示场景](scenarios/presentation.md)。

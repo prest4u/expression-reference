@@ -64,3 +64,18 @@ Independent English fixture: the supplied release notes limit a feature to one s
 > On the supported platform, the feature exports the selected content as a PDF.
 
 如果平台名已给，直接写真实名称。保留 supported 或具体条件，不用 cutting-edge、seamless 替代功能；也不因反 Slop 删去必要的 export、PDF 等术语。
+
+## 现代书籍方法：选择介绍的层次
+
+结合 [Kane 的说明方法](sources/kane.md)与 [Pinker 的读者知识文章](sources/books.md#bk-pinker)，先判断读者要辨认功能、理解机制还是决定是否使用。下面是原创场景应用。
+
+功能介绍可把当前能力与用途连接；机制介绍需要交代部件怎样发生关系；测评需要说明测试条件和观察。三类内容可以同篇出现，但每个判断都要有相应材料。发布稿中的供应方说法不能在测评中自动变成作者观察。
+
+原创材料：本地软件可搜索文件名，不搜索文件正文。
+面向普通用户：“输入文件名中的关键词，可以查找本地文件；目前不搜索文件正文。”
+面向开发者如果要说明索引实现，还需要设计资料；不能补出倒排索引、向量检索或实时同步。
+
+English: “Search local files by words in their names. File contents are not included.”
+这里选择用户能做的动作作为中心，保留搜索对象。改成“Find anything instantly”会扩大对象并增加速度承诺。
+
+正文如果只是说功能是什么，不必先解释底层实现。读者需要排障时，转读[技术说明](technical-explanation.md)；若原理需要例子，读[概念解释](scenarios/explanation.md)。专业词应帮助区分，不能只是让介绍显得复杂。
