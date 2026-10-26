@@ -1,84 +1,102 @@
-# English composition and editing
+# English: write the way a clear person talks
 
-## Quick use
+## The foundation
 
-Choose a concrete reader and a communicative job. Make the main action or relationship easy to locate, retain meaningful qualifications, and connect each sentence to something the reader already understands. Adjust register to the document and relationship. Contractions, fragments, passive voice, and long sentences can all work when the context supports them.
+The best advice on English prose is old, short, and still ignored.
 
-A polished rewrite must preserve who did what, when, to whom, under which conditions, and with what degree of certainty. Do not add a personal anecdote, emotional claim, product capability, or commitment to make the prose engaging.
+- **George Orwell, "Politics and the English Language" (1946).** Six rules, roughly: don't use a figure of speech you're used to seeing in print; prefer the short word; cut any word you can; prefer active to passive; prefer everyday English to jargon or foreign phrases; and break any of these rules sooner than say anything outright barbarous. The sixth rule matters as much as the other five. The essay's real argument is that stale language lets you avoid thinking. That is also the best one-line diagnosis of machine prose.
+- **William Zinsser, *On Writing Well*.** "Clutter is the disease of American writing." Every word should be doing work.
+- **Strunk and White, *The Elements of Style*.** "Omit needless words." Useful, if you remember that "needless" is the operative word. Some words that look needless are carrying the logic.
+- **Joseph M. Williams, *Style: Lessons in Clarity and Grace*.** The most practical book on the sentence. Characters as subjects, actions as verbs, old information before new. See [../craft/sentences.md](../craft/sentences.md).
+- **Steven Pinker, *The Sense of Style*.** The "curse of knowledge": once you know something, you can't easily imagine not knowing it, so you skip steps and use terms your reader doesn't share. His cure is classic style: write as if you're pointing something out to an intelligent reader standing beside you.
+- **Elmore Leonard, "Easy on the Adverbs, Exclamation Points and Especially Hooptedoodle" (*New York Times*, 2001).** His ten rules for fiction end with the one that matters for everything: "If it sounds like writing, I rewrite it."
 
-Sources: [Kane's selected chapters](../sources/kane.md) provide the main sentence-level foundation. The [Pinker and Sword cards](../sources/books.md) distinguish book information from the author material actually consulted. All examples below are original development examples, with facts supplied in the example itself.
+## Plain words
 
-## Put the grammatical subject to work
+| Inflated | Plain |
+|---|---|
+| utilize | use |
+| facilitate | help, run, make easier (pick the one you mean) |
+| commence | start |
+| endeavor | try |
+| in order to | to |
+| at this point in time | now |
+| due to the fact that | because |
+| is able to | can |
+| a large number of | many |
+| prior to | before |
+| with regard to | about |
 
-Prefer a subject that helps the reader follow the discussion. It may be a person, a system, a result, or the object under investigation.
+Plain doesn't mean imprecise. "Facilitate a workshop" names a specific role; "help with a workshop" loses it. Replace a word only when the plain one means the same thing.
 
-Given fact: the team reviewed the proposal.
-Heavy: “A review of the proposal was conducted by the team.”
-Direct: “The team reviewed the proposal.”
-Object-focused: “The proposal was reviewed on Monday.”
+Prefer the concrete noun and the strong verb over the adjective and the adverb. "She slammed the door" beats "she closed the door angrily."
 
-The last sentence is useful when the proposal is the continuing topic and the date is supplied. It becomes inaccurate if Monday was invented. Passive voice is also useful when the agent is unknown or irrelevant. Do not infer an agent merely to make the sentence active.
+## Register
 
-Avoid empty openings when they postpone the real point: “It is important to note that the export failed” can usually become “The export failed.” Keep an anticipatory “it” when it makes a complex sentence easier to read: “It remains unclear whether the change affected retention.”
+- **Contractions** (it's, don't, we'll, can't) are normal in almost everything except legal text, some academic writing, and formal ceremony. Removing them makes prose sound stiff, not professional.
+- **Phrasal verbs** (set up, figure out, run into) are the spoken register. Their Latinate cousins (establish, determine, encounter) are more formal. Mix according to the relationship.
+- **"You" and "we".** Talking directly to the reader is normal in instructions, marketing, and most business writing. Academic writing varies by field; check the venue.
+- **Bottom line up front (BLUF).** In American business writing, the request or conclusion goes in the first sentence or two. Context follows. Readers who have to dig for the point resent it.
 
-## Manage distance and dependencies
+## Rhythm
 
-Keep the subject and its main verb close enough to recognize. Move bulky background after the core clause or into another sentence.
+- Vary sentence length. A long sentence that builds a condition, followed by a short one that lands the point, is the basic unit of readable English rhythm.
+- End sentences on the word you want the reader to remember. "Costs rose because of shipping" emphasizes shipping; "Shipping is why costs rose" emphasizes the rise.
+- Read it aloud. If you run out of breath or stumble, so will the reader.
 
-Given facts: a committee reviewed a proposal, requested revisions, and had concerns about cost.
-Overloaded: “The committee, which had reviewed the proposal and raised a number of concerns about its cost during the meeting, requested revisions.”
-Possible edit: “The committee requested revisions after reviewing the proposal and raising concerns about cost.”
+## Hedging and confidence
 
-The edit changes emphasis, so choose it only if the request matters most. A chronological account may need the review first. Do not remove “during the meeting” when the timing distinguishes this request from an earlier one.
+Native business and academic English hedges precisely, not constantly.
 
-Place modifiers where their scope is clear. “We only reviewed the draft” can imply that reviewing was the sole action. “We reviewed only the draft” limits the material reviewed. Preserve intended scope instead of treating the variants as interchangeable.
+| Fog | Calibrated |
+|---|---|
+| This may potentially help to improve performance in some cases. | This speeds up queries that hit the cache. We haven't tested uncached queries. |
+| It could be argued that the policy has had some impact. | The policy coincided with a 10% drop in complaints. We can't yet separate its effect from the seasonal dip. |
 
-## Build information across sentences
+One hedge, in the right place, naming what's uncertain.
 
-Use familiar information to orient the reader, then introduce the new point. This is a useful tendency, not a mandatory word order.
+## Politeness without padding
 
-Original exercise: “The report contains three tables. These tables separate results by age group. The oldest group had the widest interval.”
-The sequence gives each sentence something to attach to. “This” alone would be weaker than “these tables” if several possible antecedents appeared before it.
+English politeness works through indirectness in requests, not through ceremony at the start and end.
 
-Repeat exact terms when consistency matters. Do not alternate “participant,” “customer,” and “user” unless their referents and roles are the same in the supplied material. Varied vocabulary is less important than a stable concept.
+| Padded | Natural |
+|---|---|
+| I hope this email finds you well. I am writing to inquire whether it might be possible for you to kindly send the report. | Could you send the report by Friday? |
+| Thank you so much for your hard work and dedication! | Thanks for turning this around over the weekend. (specific) |
+| I apologize for any inconvenience this may have caused. | Sorry about the mix-up with the invoice. (name it) |
+| Please do not hesitate to contact me. | (Usually: nothing. Or: "Happy to talk it through if useful.") |
 
-## Keep words that change the claim
+"Could you…" and "Would you mind…" are polite enough for almost any working relationship. "I was wondering if perhaps you might possibly…" signals anxiety, not courtesy.
 
-Preserve may, can, likely, estimated, observed, reported, approximately, and only when they qualify the statement. Remove decorative hedging only after checking its function.
+## Patterns that mark Chinese-to-English transfer
 
-Given fact: an observational study found an association.
-Faithful: “Higher attendance was associated with higher scores.”
-Unsupported strengthening: “Higher attendance improved scores.”
+Useful when translating, editing a bilingual writer's English, or writing for an American audience.
 
-Given fact: the review has started.
-Faithful client message: “We’ve received the files and started reviewing them.”
-Unsupported reassurance: “Everything looks good, and we’ll finish tomorrow.”
-
-A more confident tone can come from direct syntax while the original uncertainty remains intact.
-
-## Choose the register through the relationship
-
-| Context | Useful choice | Avoid inventing |
+| Pattern | Example | Fix |
 |---|---|---|
-| Colleague message | Clear object, concise request, ordinary verbs | Familiarity or shared frustration |
-| Client delay notice | Actual state, supplied impact, authorized next update | Guaranteed dates or compensation |
-| Research abstract | Precise population, method, result, limited conclusion | “Groundbreaking” importance |
-| Tutorial | Action, location, expected result when known | Undocumented UI labels |
-| Personal essay | Author's own observations and cadence | First-person memories |
-| Product page | Useful capability and relevant condition | Testimonials and unmeasured gains |
+| Topic-comment fronting | About the budget, I think we need more. | I think we need a bigger budget. |
+| Literal 客套 | Thanks for your hard work. (辛苦了) | Thanks for pulling this together. / Thanks — this is great. |
+| "Kindly" as softener | Kindly find the attached file. | The file's attached. / I've attached the file. |
+| Overuse of "very" and "so" | This is very very important. | This matters because… |
+| Missing or extra articles | We need to discuss about the plan. | We need to discuss the plan. |
+| "Open/close" for devices | Open the light. | Turn on the light. |
+| Formal opener with no point | Dear Sir/Madam, I am writing this email to… | Hi Sarah, quick question about the Q3 numbers. |
+| "We should…" for every suggestion | We should improve the process. | Propose the specific change: "Let's move the review to Tuesday." |
 
-“Professional” does not require inflated diction. “Use,” “help,” and “start” often work better than “utilize,” “facilitate,” and “commence,” but the replacement must preserve the particular meaning. “Facilitate a discussion” can be a specific role; “help” may lose it.
+These aren't errors to shame. In fusion writing for a bilingual audience, some of them are part of a real voice (see [fusion-translation.md](fusion-translation.md)). They matter when the audience is native English readers.
 
-## Sentence length and punctuation
+## English varieties
 
-Keep a long sentence when its subordinate clauses express a relationship the reader needs. Split it when the reader must hold too many unrelated claims in memory. Do not impose a word-count ceiling.
+Use the variety the reader expects when it's specified (American, British, Canadian, Australian). Otherwise stay consistent within the piece. For international audiences, avoid idioms that don't travel ("knock it out of the park," "a whole new ballgame") in instructions and anything that might be machine-translated.
 
-A colon can introduce an explanation or list after a complete setup. A semicolon can join closely related independent clauses. A dash can mark a useful interruption, but repeated interruptions can make prose unstable. Follow the requested style guide for quotation marks, commas, spelling, and capitalization.
+## Before and after
 
-Fragments can work in headings, dialogue, and interface labels. Use full sentences where a missing subject or verb would obscure responsibility. Readability scores and grammar checkers can flag a location to inspect; they cannot settle voice, truth, or argument.
+> Before: In today's rapidly evolving landscape, it is crucial for organizations to leverage data-driven insights in order to facilitate informed decision-making processes.
+>
+> After: Look at the numbers before you decide.
 
-## Bilingual and international audiences
+That's what the first sentence says. If there's more to say ("most teams here decide pricing without looking at churn data"), say that instead. It's specific, so it's worth a reader's time.
 
-Use the audience's requested English variety when specified. Otherwise stay internally consistent, without implying that North American habits apply to every reader. Avoid unexplained regional idioms in international instructions. Keep exact product names and UI labels.
-
-Translate ideas using natural English syntax while retaining constraints from the original. For a translated document, read [translation-fusion.md](translation-fusion.md). If a phrase has several plausible meanings, use context or ask about the consequential ambiguity instead of silently choosing the strongest claim.
+> Before: The meeting was very productive and we were able to make a lot of progress on a number of key issues.
+>
+> After (facts from the user: launch agreed for June 12, migration assigned to Priya, pricing unresolved and back on the agenda Thursday): We set the launch for June 12 and gave the migration to Priya. Pricing is still open; we'll take it up Thursday.
