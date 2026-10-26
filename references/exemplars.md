@@ -93,6 +93,15 @@
 - **Patrick McKenzie, *Bits about Money***：把复杂的金融机制写成普通人能懂的长文。
 - **Matt Levine, *Money Stuff***：专业又好笑。
 
+### 法律与律师实务
+
+- **Bryan A. Garner, *Legal Writing in Plain English* (2nd ed., 2013)**：现代英语法律写作最实用的方法书——怎样把复杂的争议焦点（issue framing）、合同条款和诉讼论证写得既严密又干净。
+- **Richard C. Wydick, *Plain English for Lawyers***：专治法律八股、冗余复合词和绕口长句。
+- **Ross Guberman, *Point Made: How to Write Like the Nation's Top Advocates* (2nd ed., 2014)**：拆解顶级出庭律师怎样写开篇、怎样排列事实让裁判者自己得出结论、怎样写信息型小标题和回应对方抗辩。
+- **Ken Adams, *A Manual of Style for Contract Drafting***：合同语言的规范词（shall / will / may / must、陈述与保证、先决条件、责任限制）怎样写才没有歧义。
+- **最高人民法院指导性案例与优秀裁判文书**：中文法律实务里“争议焦点归纳 + 要件事实查明 + 本院认为说理”的标准参照。
+- **罗翔**：面向公众把抽象法律概念落到具体人物和两难处境上。
+
 ### 工作沟通
 
 - **Guido van Rossum, “Transfer of power” (2018)**：Python 创始人宣布卸任 BDFL 的公开邮件，清楚区分确定的变化和尚未决定的安排。[邮件原文](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
